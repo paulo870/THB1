@@ -464,7 +464,7 @@ audioBtn.addEventListener("click", function(e) {
         9: {},
         10: {},
         11: {},
-        12: {}
+        12: {},
     };
 
     // Define audio tracks for all units (Activity Book)
