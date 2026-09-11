@@ -452,18 +452,18 @@ audioBtn.addEventListener("click", function(e) {
 
     // Define audio tracks for all units (Student Book)
     const studentBookAudioTracks = {
-        1: {7:["page7_Track_1.1"],8:["page8_Track_1.2"],9:["page9_Track_1.3","page9_Track_1.4"]},
-        2: {13:["page13_Track_2.1"],14:["page14_Track_2.2"],15:["page15_Track_2.3","page15_Track_2.4"]},
-        3: {20:["page20_Track_3.1","page20_Track_3.2"],21:["page21_Track_3.3"]},
-        4: {26:["page26_Track_4.1"],28:["page28_Track_4.2"],29:["page29_Track_4.3","page29_Track_4.4"],30:["page30_Track_4.5"]},
-        5: {33:["page33_Track_5.1"],34:["page34_Track_5.2","page34_Track_5.3"],35:["page35_Track_5.4"]},
-        6: {39:["page39_Track_6.1"],40:["page40_Track_6.2"],41:["page41_Track_6.3"]},
-        7: {47:["page47_Track_7.1"],48:["page48_Track_7.2","page48_Track_7.3"],49:["page49_Track_7.4"]},
-        8: {53:["page53_Track_8.1"],54:["page54_Track_8.2","page54_Track_8.3"],55:["page54_Track_8.3","page55_Track_8.4"],56:["page56_Track_8.5"]},
-        9: {59:["page59_Track_9.1","page59_Track_9.2"],60:["page60_Track_9.3",],61:["page61_Track_9.4"],63:["page63_Track_9.5"]},
-        10: {66:["page66_Track_10.1"],68:["page68_Track_10.2"],69:["page69_Track_10.3"]},
-        11: {72:["page72_Track_11.1"],74:["page74_Track_11.2"],75:["page75_Track_11.3"],76:["page76_Track_11.4"]},
-        12: {80:["page80_Track_12.1"],81:["page81_Track_12.2"] }
+        1: {5:["page5_Track_0.1","page5_Track_0.2"],6:["page6_Track_0.3"],8:["page8_Track_0.4"],9:["page9_Track_0.5","page9_Track_0.6"],11:["page11_Track_0.7"]},
+        2: {},
+        3: {},
+        4: {},
+        5: {},
+        6: {},
+        7: {},
+        8: {},
+        9: {},
+        10: {},
+        11: {},
+        12: {}
     };
 
     // Define audio tracks for all units (Activity Book)
